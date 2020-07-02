@@ -1,3 +1,6 @@
 
+---
+title: "Title Strip Test Post"
+---
 
-# Título qualquer
+# Title Override
